@@ -11,37 +11,37 @@
 # ordered by weight from lowest to highest.
 
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/irishcx/personal_blog"
-  weight = 50
+# [[main]]
+#   identifier = "github"
+#   pre = "github"
+#   url = "https://github.com/irishcx/personal_blog"
+#   weight = 50
 
 [[main]]
   name = "About Me"
   pageRef = "about"
   weight = 10
-  
-[[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
 
 [[main]]
- name = "Parent"
- weight = 20
+  name = "博客"
+  pageRef = "posts"
+  weight = 10
 
-[[main]]
- name = "example sub-menu 1"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
+# [[main]]
+#  name = "Parent"
+#  weight = 20
 
-[[main]]
- name = "example sub-menu 2"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
+# [[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+# [[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -75,7 +75,7 @@
   pageRef = "tags"
   weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

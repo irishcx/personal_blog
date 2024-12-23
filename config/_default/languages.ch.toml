@@ -1,6 +1,6 @@
 disabled = false
 languageCode = "zh-CN"
-languageName = "English"
+languageName = "中文"
 weight = 1
 title = "阖庐"
 
@@ -9,7 +9,7 @@ title = "阖庐"
   isoCode = "zh_CN"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "../assets/logo.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
