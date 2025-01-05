@@ -1,7 +1,15 @@
-# 2025日计划使用说明书
+---
+title: "2025日计划使用说明书"
+summary: "2025日计划"
+categories: []
+tags: ["planning"]
+#externalUrl: ""
+#showSummary: true
+date: 2025-01-04
+draft: false
+---
 
-Created: January 3, 2025 3:34 PM
-Tags: planning
+# 2025日计划使用说明书
 
 1. 标签系统 
 2. TODO使用
