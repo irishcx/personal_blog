@@ -15,18 +15,26 @@ draft: false
 
 # 标签系统
 
-名称 [tag]（可选）
+名称 ==[tag]==（可选）
 
 ### tag类别
 
-[creation] 没有具体分类的创造活动 
-[work] 很明显
-[diary] [手帳] 「てちょう」
-[learning] 没有具体分类的**自习**行为
-[travel] 旅游 建议colorcode或者加入绘图
-[explore] 看展学习 咖啡店探索 上课等等
-[daily] 琐事
-[finance] 管理一下资产
+==[creation]== 没有具体分类的创造活动 
+
+==[work]== 很明显
+
+==[diary]== ==[手帳]== 「てちょう」
+
+==[learning]== 没有具体分类的**自习**行为
+
+==[travel]== 旅游 建议colorcode或者加入绘图
+
+==[explore]== 看展学习 咖啡店探索 上课等等
+
+==[daily]== 琐事
+
+==[finance]== 管理一下资产
+
 
 # TODO
 

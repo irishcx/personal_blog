@@ -2,13 +2,13 @@ disabled = false
 languageCode = "zh-CN"
 languageName = "中文"
 weight = 1
-title = "阖庐"
+title = "咕噜咕庐"
 
 [params]
   displayName = "CN"
   isoCode = "zh_CN"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "27 March 2000"
   logo = "../assets/logo.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"

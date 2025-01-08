@@ -2,11 +2,68 @@
 # These settings are required for the theme to function.
 
 [goldmark]
-[goldmark.renderer]
-  unsafe = true
+  duplicateResourceFiles = false
+  [goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    linkifyProtocol = 'https'
+    strikethrough = false
+    table = true
+    taskList = true
+    [goldmark.extensions.cjk]
+      eastAsianLineBreaks = false
+      eastAsianLineBreaksStyle = 'simple'
+      enable = false
+      escapedSpace = false
+    [goldmark.extensions.extras]
+      [goldmark.extensions.extras.delete]
+        enable = true
+      [goldmark.extensions.extras.insert]
+        enable = true
+      [goldmark.extensions.extras.mark]
+        enable = true
+      [goldmark.extensions.extras.subscript]
+        enable = true
+      [goldmark.extensions.extras.superscript]
+        enable = true
+    [goldmark.extensions.passthrough]
+      enable = false
+      [goldmark.extensions.passthrough.delimiters]
+        block = []
+        inline = []
+    [goldmark.extensions.typographer]
+      apostrophe = '&rsquo;'
+      disable = false
+      ellipsis = '&hellip;'
+      emDash = '&mdash;'
+      enDash = '&ndash;'
+      leftAngleQuote = '&laquo;'
+      leftDoubleQuote = '&ldquo;'
+      leftSingleQuote = '&lsquo;'
+      rightAngleQuote = '&raquo;'
+      rightDoubleQuote = '&rdquo;'
+      rightSingleQuote = '&rsquo;'
+  [goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = 'github'
+    wrapStandAloneImageWithinParagraph = true
+    [goldmark.parser.attribute]
+      block = false
+      title = true
+  [goldmark.renderHooks]
+    [goldmark.renderHooks.image]
+      enableDefault = false
+    [goldmark.renderHooks.link]
+      enableDefault = false
+  [goldmark.renderer]
+    hardWraps = false
+    unsafe = false
+    xhtml = false
 
 [highlight]
   noClasses = false
+  style = "modus-vivendi"  # 选择预设的高亮样式（有多种样式）
 
 [tableOfContents]
   startLevel = 2
