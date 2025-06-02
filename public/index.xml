@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>当我们在谈创作，我们到底在谈什么</title>
+      <link>http://localhost:1313/posts/2025_creation/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025_creation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>这是一个测试页面</title>
+      <link>http://localhost:1313/posts/firstpost/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>2025日计划使用说明书</title>
