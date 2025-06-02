@@ -10,31 +10,21 @@
     <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>当我们在谈创作，我们到底在谈什么</title>
-      <link>http://localhost:1313/posts/2025_creation/</link>
+      <title>从这里开始 —— 当我在谈创作，我到底在谈什么</title>
+      <link>http://localhost:1313/posts/talk_about_creation_2025/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025_creation/</guid>
+      <guid>http://localhost:1313/posts/talk_about_creation_2025/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>这是一个测试页面</title>
-      <link>http://localhost:1313/posts/firstpost/</link>
-      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/firstpost/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>2025日计划使用说明书</title>
-      <link>http://localhost:1313/posts/2025planning/</link>
+      <title>P人的2025日计划本 使用说明书</title>
+      <link>http://localhost:1313/posts/todo_system_2025/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2025planning/</guid>
+      <guid>http://localhost:1313/posts/todo_system_2025/</guid>
       <description>2025日计划</description>
       
     </item>

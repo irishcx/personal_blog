@@ -1,12 +1,12 @@
 ---
 title: "这是一个测试页面"
 summary: ""
-categories: ["abc"]
+categories: []
 tags: []
 #externalUrl: ""
 #showSummary: true
 date: 2025-01-07
-draft: false
+draft: true
 ---
 
 *this*
