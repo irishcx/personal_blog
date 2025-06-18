@@ -8,19 +8,19 @@ title = "咕噜咕庐"
   displayName = "CN"
   isoCode = "zh_CN"
   rtl = false
-  dateFormat = "27 March 2000"
+  dateFormat = "2000-03-27"
   logo = "../assets/logo.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
+[params.author]
+  name = "咕咕1号机"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+  # headline = "I'm only human"
+  bio = "实体不存在"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
