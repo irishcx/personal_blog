@@ -5,22 +5,22 @@ weight = 1
 title = "咕噜咕庐"
 
 [params]
-  displayName = "CN"
-  isoCode = "zh_CN"
+  displayName = "简体中文"
+  isoCode = "zh-CN"
   rtl = false
-  dateFormat = "2000-03-27"
-  logo = "../assets/logo.jpg"
+  dateFormat = "2 Jan 2006"
+  # logo = "../assets/img/avatar.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[params.author]
-  name = "咕咕1号机"
-#   email = "youremail@example.com"
+# [params.author]
+  # name = "咕咕"
+#  email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
   # headline = "I'm only human"
-  bio = "实体不存在"
+  # bio = "实体不存在"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

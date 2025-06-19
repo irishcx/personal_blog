@@ -6,7 +6,7 @@
     <description>Recent content in Planning on 咕噜咕庐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>© 2025 咕咕1号机</copyright>
+    <copyright>© 2025 </copyright>
     <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/planning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/posts/todo_system_2025/</guid>
       <description>2025日计划</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/todo_system_2025/feature.jpg" />
     </item>
     
   </channel>

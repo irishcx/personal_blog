@@ -4,7 +4,7 @@
 
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://blog.gulugulrave.com/"
-defaultContentLanguage = "ch"
+defaultContentLanguage = "zh-cn"
 markup.defaultMarkdownHandler = "goldmark"
 
 pluralizeListTitles = true # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -16,6 +16,8 @@ buildDrafts = false
 buildFuture = false
 
 enableEmoji = true
+
+hasCJKLanguage = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 

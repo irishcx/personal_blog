@@ -23,13 +23,25 @@
   weight = 10
 
 [[main]]
-  name = "博客"
+  name = "时间线"
   pageRef = "posts"
   weight = 10
 
-# [[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "分类"
+  pageRef = "categories"
+  weight = 20
+
+[[main]]
+  name = "标签"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Archive"
+  pageRef = ""
+  weight = 40
+
 
 # [[main]]
 #  name = "example sub-menu 1"
@@ -43,12 +55,12 @@
 #  pageRef = "posts"
 #  weight = 20
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "My Awesome Category"
 #  pre = "github"
 #  pageRef = "categories/awesome"
