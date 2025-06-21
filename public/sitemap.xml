@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/upgrade_purchase_2025/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/todo_system_2025/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
