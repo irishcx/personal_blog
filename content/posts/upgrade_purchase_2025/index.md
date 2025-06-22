@@ -5,7 +5,7 @@ categories: ["用钱投票"]
 tags: []
 #externalUrl: ""
 #showSummary: true
-date: 2025-06-01
+date: 2025-06-20
 draft: false
 ---
 
@@ -24,6 +24,14 @@ Refer to [椒老师的一篇更新](https://blog.douchi.space/gears-worth-upgrad
 随着生活的足迹越来越走向北方，冬天变得越来越长。曾经坐在高中教室忍受着冰冰凉凉的双脚的生活，在我的记忆力都越来越远。但偶尔和朋友们聊到养生话题，我也还是会额外注意四肢保暖的话题，毕竟是个气血不通畅的人，不像外婆的手，永远都是暖暖的。随着出走，物质条件也越来越好，有心思思考起这不为外人所见的足部穿搭来。它是我在冬天的安全感，让我能够真诚地爱着冬天。在这个半年都在冬季的城市。
 
 冬天，即使坐在有暖气的室内，一双保暖又透气的袜子，能够防止足底起汗；如果出去走动，也不会一下子就感觉到冬天的呼吸。站在寒风里，暖暖的脚趾尖像是一种往外走的底气，冬天也可以心情轻快地步行。
+
+{{< figure
+  src="socks.png"
+  alt="水貂绒袜商品图"
+  caption="水貂绒袜"
+  width="70%"
+  nozoom="true"
+>}}
 
     羊毛袜
     毛茸茸水貂袜（这只是一个名字，没有水貂因此受到伤害）
@@ -60,6 +68,13 @@ Refer to [椒老师的一篇更新](https://blog.douchi.space/gears-worth-upgrad
 
 如果没有咖啡机的预算，手磨 + Aeropress 也是很不错的每日咖啡装备。说到这里，我想起了加拿大找不到有灵魂的土豆和番茄，叹气.....
 
+{{< figure
+  src="Expresso_machine.jpg"
+  alt="我的咖啡机和磨豆机"
+  caption="Bambino Plus 咖啡机和 Fellow Ode 磨豆机"
+  width="70%"
+  nozoom="true"
+>}}
 
     expresso咖啡电动磨豆机
     半自动意式浓缩机
