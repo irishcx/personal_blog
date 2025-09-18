@@ -1,7 +1,7 @@
 ---
 title: "P人的2025日计划本 使用说明书"
 summary: "2025日计划"
-categories: ["planning"]
+categories: ["手帐"]
 tags: []
 #externalUrl: ""
 #showSummary: true
