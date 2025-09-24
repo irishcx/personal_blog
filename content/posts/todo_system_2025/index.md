@@ -1,8 +1,8 @@
 ---
 title: "P人的2025日计划本 使用说明书"
 summary: "2025日计划"
-categories: ["手帐"]
-tags: []
+categories: ["爱好抽奖池"]
+tags: ["手帐"]
 #externalUrl: ""
 #showSummary: true
 date: 2025-01-04

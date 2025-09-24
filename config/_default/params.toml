@@ -41,8 +41,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "IMAGE.png" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  # homepageImage = "/static/img/bluelines.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
@@ -88,7 +88,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
@@ -124,13 +124,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyAfC8lHjTNRl6qeYuk_Q45oaBtvMDd3V88"
+  authDomain = "personalblog-analysis.firebaseapp.com"
+  projectId = "personalblog-analysis"
+  storageBucket= "personalblog-analysis.firebasestorage.app"
+  messagingSenderId= "504307530741"
+  appId= "1:504307530741:web:5dbac080069f66efb87ebc"
+  measurementId= "G-QG656NP6N9"
 
 [fathomAnalytics]
   # site = "ABC12345"
