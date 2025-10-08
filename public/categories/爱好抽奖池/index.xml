@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>爱好抽奖池 on 咕噜咕庐</title>
+    <link>http://localhost:1313/categories/%E7%88%B1%E5%A5%BD%E6%8A%BD%E5%A5%96%E6%B1%A0/</link>
+    <description>Recent content in 爱好抽奖池 on 咕噜咕庐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%88%B1%E5%A5%BD%E6%8A%BD%E5%A5%96%E6%B1%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>P人的2025日计划本 使用说明书</title>
+      <link>http://localhost:1313/posts/todo_system_2025/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/todo_system_2025/</guid>
+      <description>2025日计划</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/todo_system_2025/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
