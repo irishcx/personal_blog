@@ -45,26 +45,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/links/madoke-copy-2/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/links/madoke-copy-3/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/links/madoke-copy/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/links/madoke/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/links/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
