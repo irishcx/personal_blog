@@ -7,6 +7,12 @@ strong{
   /* text-decoration: #06b5d4  underline 1px; */
   /* text-underline-offset: 3px; */
 }
+.tk-nick{
+  font-weight:bold;
+  background-color: transparent;
+  /* text-decoration: #06b5d4  underline 1px; */
+  /* text-underline-offset: 3px; */
+}
 blockquote {
   font-weight: 180;
 }

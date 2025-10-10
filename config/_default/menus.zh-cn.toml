@@ -22,6 +22,7 @@
 #   pageRef = "about"
 #   weight = 10
 
+
 [[main]]
   name = "时间线"
   pageRef = "posts"
@@ -35,6 +36,11 @@
 [[main]]
   name = "标签"
   pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "友链"
+  pageRef = "links"
   weight = 20
 
 # [[main]]

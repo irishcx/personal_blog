@@ -1,0 +1,34 @@
+{{ if and .Site.Params.twikoo_enable .Site.Params.twikoo_env_id }}
+<div id="tcomment"></div>
+
+<!-- 引入 Twikoo 脚本（CDN） -->
+<script src="https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js" defer></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  if (!window.twikoo) {
+    console.error('Twikoo 脚本未加载。');
+    return;
+  }
+
+  // 从 Hugo 传入的参数（在构建时注入为字符串）
+  const envId = '{{ .Site.Params.twikoo_env_id }}';
+  const region = '{{ with .Site.Params.twikoo_region }}{{ . }}{{ else }}{{ end }}';
+
+  // 推荐用 path 来区分页面；使用相对路径（RelPermalink）保证在不同域名部署时一致
+  const path = '{{ .RelPermalink }}';
+
+  // 初始化
+  try {
+    window.twikoo.init({
+      envId: envId,      // Cloud 填 envId；自建填 URL（如 https://xxx.vercel.app）
+      el: '#tcomment',   // 渲染容器
+      region: region || undefined,
+      path: path
+    });
+  } catch (err) {
+    console.error('Twikoo 初始化失败：', err);
+  }
+});
+</script>
+{{ end }}

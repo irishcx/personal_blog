@@ -52,10 +52,7 @@
       block = false
       title = true
   [goldmark.renderHooks]
-    [goldmark.renderHooks.image]
-      enableDefault = false
-    [goldmark.renderHooks.link]
-      enableDefault = false
+      useEmbedded = false
   [goldmark.renderer]
     hardWraps = false
     unsafe = false
