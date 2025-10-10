@@ -19,15 +19,5 @@
       
     </item>
     
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/about/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>
