@@ -2,3 +2,5 @@
 customCSS = ["css/custom.css"]
 [params]
   toc = true
+  twikoo_env_id = "https://personal-blog-comment-kohl.vercel.app/"    # 必填：Cloud 的 envId 或 自建地址
+  twikoo_enable = true
