@@ -1,3 +1,4 @@
+hasCJKLanguage = true
 [params.assets]
 customCSS = ["css/custom.css"]
 [params]

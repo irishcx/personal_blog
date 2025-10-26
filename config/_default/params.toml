@@ -41,14 +41,16 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/static/img/bluelines.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 5
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  siteTitle = "咕噜咕庐"
+  heroBackground = "images/background.jpg"   
+  # homepageImage = "img/bluelines.jpg" # used in: hero, and card
+  # showRecent = true
+  # showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts/"
-  cardView = false
-  cardViewScreenWidth = false
+  # cardView = false
+  # cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -166,3 +168,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [rssnext]
   # feedId = ""
   # userId = ""
+[params.search]
+  type = "local"       # local 或 algolia
+  placeholder = "搜索..."
+  minQueryLength = 2   # 最小查询长度
+[outputs]
+  home = ["HTML", "JSON"]  # 首页生成 JSON 索引
+  page = ["HTML"]
+  section = ["HTML"]
