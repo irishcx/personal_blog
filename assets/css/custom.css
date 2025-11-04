@@ -55,7 +55,7 @@ blockquote {
 /* 首页 样式 */
 body.kind-home,
 body.home {
-  background-image: url("../img/blueline.JPG");
+  background-image: url("https://photos.gulugulurave.com/blueline.jpg");
   background-size:cover;
   background-position: center;
   background-repeat: repeat;
